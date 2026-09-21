@@ -45,7 +45,7 @@ You'll see all three in the dashboard.
 Open a terminal in the project folder and run:
 
 ```cmd
-mvnw.cmd spring-boot:run
+.\mvnw.cmd spring-boot:run
 ```
 
 The first run downloads Maven (~10 MB) and all dependencies (~80 MB) — give it a couple of minutes. Subsequent runs start in a few seconds.
